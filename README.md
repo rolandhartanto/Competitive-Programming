@@ -1,2 +1,2 @@
-# Competitive-Programming
-Competitive Programming Write-ups
+# Competitive Programming Write-ups
+Coming soon

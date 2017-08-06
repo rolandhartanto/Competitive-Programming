@@ -6,6 +6,3 @@ For example, if the title of chapter 1 is "Perkenalan", the directory name will 
 
 <code>ch[0-1][0-9]_[Chapter_Title]</code>
 
-The source codes are also named according to the problem's title.
-For example:
-<code>problem_title.cpp</code> or <code>problem_title.pas</code>

@@ -1,4 +1,4 @@
-# TLX Toki Learning - Training Gate - Pemrograman Dasar
+# TLX Toki Learning - Training Gate - Kelas Pembelajaran Pemrograman
 You can access the problems <a href="https://training.ia-toki.org/training/curriculums/1/courses">here</a>.
 
 The directories are named according to the chapter's title. 

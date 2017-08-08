@@ -1,3 +1,6 @@
+//Simple Array Sum
+//Author : Roland Hartanto
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

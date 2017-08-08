@@ -1,3 +1,7 @@
+/*
+Compare The Triplets
+Author : Roland Hartanto
+*/
 #include <math.h>
 #include <stdio.h>
 #include <string.h>

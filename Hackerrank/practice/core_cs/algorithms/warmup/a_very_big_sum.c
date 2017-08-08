@@ -1,3 +1,8 @@
+/*
+A Very Big Sum
+Author : Roland Hartanto
+*/
+
 #include <math.h>
 #include <stdio.h>
 #include <string.h>

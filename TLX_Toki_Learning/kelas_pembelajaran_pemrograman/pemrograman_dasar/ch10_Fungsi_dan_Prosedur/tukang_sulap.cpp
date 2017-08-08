@@ -1,3 +1,6 @@
+//Tukang Sulap
+//Author : Roland Hartanto
+
 #include<cstdio>
 using namespace std;
 

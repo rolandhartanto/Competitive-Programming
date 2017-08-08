@@ -1,3 +1,6 @@
+//Reverse Game
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 
 using namespace std;

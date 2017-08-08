@@ -1,3 +1,6 @@
+//Leonardos Prime Factors
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 using namespace std;
 

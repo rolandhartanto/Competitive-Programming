@@ -1,3 +1,6 @@
+//UVa 00927 - Integer Sequences from Addition of Terms
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,6 @@
+//UVa 01237 - Expert Enough
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 using namespace std;
 

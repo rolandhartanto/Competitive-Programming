@@ -1,4 +1,7 @@
 import java.io.*;
+//Summing the N Series
+//Author : Roland Hartanto
+
 import java.util.*;
 import java.math.BigInteger;
 

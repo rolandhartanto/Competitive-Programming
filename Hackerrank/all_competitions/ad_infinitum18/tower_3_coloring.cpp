@@ -1,4 +1,6 @@
-//tower 3-coloring
+//Tower 3 Coloring
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 using namespace std;
 

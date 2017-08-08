@@ -1,3 +1,6 @@
+//Pesta Bebek
+//Author : Roland Hartanto
+
 #include<bits/stdc++.h>
 using namespace std;
 int noUrut=1;

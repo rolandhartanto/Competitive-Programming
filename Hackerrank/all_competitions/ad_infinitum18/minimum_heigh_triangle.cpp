@@ -1,3 +1,6 @@
+//Minimum Heigh Triangle
+//Author : Roland Hartanto
+
 #include <bits/stdc++.h>
 
 using namespace std;

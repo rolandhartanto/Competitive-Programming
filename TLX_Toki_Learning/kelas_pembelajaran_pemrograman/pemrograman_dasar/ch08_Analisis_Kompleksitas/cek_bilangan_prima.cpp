@@ -1,3 +1,6 @@
+//Cek Bilangan Prima
+//Author : Roland Hartanto
+
 #include <iostream>
 #include <cmath>
 using namespace std;

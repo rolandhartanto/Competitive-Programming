@@ -1,3 +1,6 @@
+//Permutasi Zig Zag
+//Author : Roland Hartanto
+
 #include<bits/stdc++.h>
 using namespace std;
 int N;

@@ -1,3 +1,6 @@
+//Pertemuan Pak Dengklek
+//Author : Roland Hartanto
+
 #include<bits/stdc++.h>
 using namespace std;
 

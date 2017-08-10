@@ -1,0 +1,26 @@
+#created by Roland Hartanto
+
+# folder config file
+desktop.ini
+
+# executable & object file
+*.exe
+*.o
+*.a
+
+# windows shortcut
+*.lnk
+
+# windowns installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Recycle bin 
+$RECYCLE.BIN/
+
+# windows tumbnail cache files
+thumbs.db
+ehthumbs.db
+ehthumbs_vista.db

@@ -1,3 +1,6 @@
+//Staircase
+//Author : Roland Hartanto
+
 #include <iostream>
 using namespace std;
 
